@@ -1,2 +1,8 @@
 # Basic-DNS-Setup
-Description of a small basic project to set up a website and domain with basic DNS records.
+https://roadmap.sh/projects/basic-dns
+
+1. Created a basic DigitalOcean droplet to host my Resume.
+
+2. Purchased a domain-name from GoDaddy.com "r-k-butler.com"
+
+3. Set the A record to the address of the active droplet.
